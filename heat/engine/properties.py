@@ -14,7 +14,7 @@
 #    under the License.
 
 import collections
-import re
+import re2 as re
 
 from heat.common import exception
 from heat.engine import parameters
